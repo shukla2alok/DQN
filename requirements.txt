@@ -1,0 +1,7 @@
+tensorflow
+gym==0.21.0
+osrm
+numpy
+pandas
+matplotlib
+seaborn
